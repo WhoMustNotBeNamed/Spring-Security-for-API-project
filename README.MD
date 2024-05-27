@@ -11,7 +11,7 @@
   </br>
     https://github.com/WhoMustNotBeNamed/API-project</br>
   </br>
-    Нужная конфигурация для запуска находится в ветке feature/for-docker-microservices </br>
+    Нужная конфигурация для запуска находится в ветке `feature/for-docker-microservices` </br>
   </br>
     Перед запуском необходимо собрать проект с помощью команды `./gradlew build` </br>
     Затем запустить контейнер с помощью команды `docker-compose up --build` </br>
